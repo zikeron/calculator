@@ -20,5 +20,5 @@ go run calculator.go
 * [@ziker_on](https://twitter.com/ziker_on)
 
 ## Version History
-* 0.1
+* 1.0.0
     * Initial Release
