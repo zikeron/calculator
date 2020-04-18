@@ -1,3 +1,3 @@
-module github/zikeron/calculator
+module github.com/zikeron/calculator
 
 go 1.14
